@@ -1,0 +1,9 @@
+[user]
+	name = shujinwu
+	email = shujinwu@oregonstate.edu
+[core]
+	autocrlf = input
+[color]
+	ui = true
+[gitreview]
+	username = shujin-wu
